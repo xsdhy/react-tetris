@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/chvin/react-tetris/issues"
   },
-  "homepage": ".",
+  "homepage": "https://github.com/chvin/react-tetris#readme",
   "devDependencies": {
     "autoprefixer": "^6.7.2",
     "babel-core": "^6.13.2",

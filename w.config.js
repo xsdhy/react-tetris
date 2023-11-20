@@ -117,5 +117,9 @@ module.exports = {
   postcss: function () {
     return [precss, autoprefixer];
   },
-  version: version
+  version: version,
+  output: {
+    // ... 其他 output 配置 ...
+    publicPath: './',
+  },
 };
